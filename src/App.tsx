@@ -9,7 +9,7 @@ const App: React.FC = () => {
       <>
         <GlobalStyles />
         <div>
-          <h1>Personal Finance managementt</h1>
+          <h1>Personal Finance management</h1>
         </div>
       </>
     </ThemeProvider>
